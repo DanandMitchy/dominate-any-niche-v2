@@ -1,0 +1,8 @@
+{
+  "name": "dominate-any-niche",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "echo 'Starting development...'",
+    "test": "echo 'Running tests...'"
+  }
+}
